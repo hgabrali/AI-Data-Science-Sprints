@@ -1,7 +1,6 @@
 <div align="center">
 
-<!-- Logo / Banner -->
-<img src="https://raw.githubusercontent.com/hgabrali/AI-Data-Science-Sprints/main/assets/banner.png" alt="AI Data Science Sprints Banner" width="200"/>
+
 
 # 🚀 AI-Data-Science-Sprints
 
