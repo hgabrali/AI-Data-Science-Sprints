@@ -1,3 +1,52 @@
+<div align="center">
+
+<!-- Logo / Banner -->
+<img src="https://raw.githubusercontent.com/hgabrali/AI-Data-Science-Sprints/main/assets/banner.png" alt="AI Data Science Sprints Banner" width="200"/>
+
+# 🚀 AI-Data-Science-Sprints
+
+### *A Comprehensive Guide to Modern AI-Driven Data Science Workflows*
+
+> **Three-sprint curriculum integrating LLMs, AutoML, and Multimodal AI  
+> into every phase of the data science lifecycle.**
+
+---
+
+<!-- Badges -->
+![GitHub Stars](https://img.shields.io/github/stars/hgabrali/AI-Data-Science-Sprints?style=for-the-badge&color=yellow)
+![GitHub Forks](https://img.shields.io/github/forks/hgabrali/AI-Data-Science-Sprints?style=for-the-badge&color=blue)
+![GitHub Issues](https://img.shields.io/github/issues/hgabrali/AI-Data-Science-Sprints?style=for-the-badge&color=red)
+![License](https://img.shields.io/github/license/hgabrali/AI-Data-Science-Sprints?style=for-the-badge&color=green)
+![Python](https://img.shields.io/badge/Python-3.9%2B-blue?style=for-the-badge&logo=python&logoColor=white)
+
+---
+
+<!-- Tech Stack Badges -->
+![LLMs](https://img.shields.io/badge/LLMs-GPT--4o%20%7C%20Claude%20%7C%20Llama3-blueviolet?style=flat-square&logo=openai)
+![AutoML](https://img.shields.io/badge/AutoML-PyCaret%20%7C%20AutoGluon%20%7C%20H2O-orange?style=flat-square)
+![Multimodal](https://img.shields.io/badge/Multimodal-Vision%20%7C%20DALL--E%20%7C%20SAM-teal?style=flat-square)
+![Notebooks](https://img.shields.io/badge/Jupyter-Notebooks-orange?style=flat-square&logo=jupyter)
+
+---
+
+<!-- Sprint Overview Pills -->
+| 🏁 Sprint 1 | ⚙️ Sprint 2 | 🧠 Sprint 3 |
+|:-----------:|:-----------:|:-----------:|
+| **Foundations & Tools** | **Data Prep & AutoML** | **Advanced AI Apps** |
+| AI Web Search · Image AI · Pandas AI | Auto EDA · Feature Eng. · AutoML | LLM NLP · Code Gen · Multimodal |
+
+---
+
+📖 [Documentation](#overview) · 🐛 [Report Bug](https://github.com/hgabrali/AI-Data-Science-Sprints/issues) · 💡 [Request Feature](https://github.com/hgabrali/AI-Data-Science-Sprints/issues) · ⭐ [Star this Repo](https://github.com/hgabrali/AI-Data-Science-Sprints/stargazers)
+
+</div>
+
+---
+
+
+
+
+
 # AI-Data-Science-Sprints
 
 > **A Comprehensive Guide to Modern AI-Driven Data Science Workflows**
