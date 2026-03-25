@@ -33,7 +33,7 @@
 | 🏁 Sprint 1 | ⚙️ Sprint 2 | 🧠 Sprint 3 |
 |:-----------:|:-----------:|:-----------:|
 | **Foundations & Tools** | **Data Prep & AutoML** | **Advanced AI Apps** |
-| AI Web Search · Image AI · Pandas AI | Auto EDA · Feature Eng. · AutoML | LLM NLP · Code Gen · Multimodal |
+| AI Web Search · Image AI · Pandas AI | Auto EDA · Feature Eng. · AutoML | LLM NLP · Code Gen · Multimodal | 
 
 ---
 
